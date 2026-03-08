@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Secaumene</title>
+    <link>//localhost:1313/post/</link>
+    <description>Recent content in Posts on Secaumene</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 08 Mar 2026 22:11:10 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TheTest</title>
+      <link>//localhost:1313/post/thetest/</link>
+      <pubDate>Sun, 08 Mar 2026 22:11:10 +0800</pubDate>
+      <guid>//localhost:1313/post/thetest/</guid>
+      <description>&lt;h2 id=&#34;try&#34;&gt;try&lt;/h2&gt;&#xA;&lt;p&gt;This is a test post.&#xA;&amp;rsquo;&amp;rsquo;&#39;&#xA;code test&#xA;&amp;rsquo;&#39;&#39;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
